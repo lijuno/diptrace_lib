@@ -9,6 +9,7 @@ Component libraries:
   - MMBT3904 BJT
   - S1KB-12-F general purpose diode
   - LTST-C191 LED
+  - BAS-7-F general purpose diode 
 
 * st.eli: 
   - STM32F401RB (LQFP64)
