@@ -25,4 +25,6 @@ Component libraries:
   - Push-button
   - SPDT slide switch
   - 3.5mm stereo audio jack
+  - A test pad (circular)
+  - [BK1608](http://www.yuden.co.jp/productdata/catalog/en/mlci07_e.pdf) ferrite beads (chip)
 
