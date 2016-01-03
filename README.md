@@ -13,6 +13,7 @@ Component libraries:
 
 * st.eli: 
   - STM32F401RB (LQFP64)
+  - STM32F030K6 (LQFP32)
   - TS472 audio preamp
 
 * winbond.eli: 
