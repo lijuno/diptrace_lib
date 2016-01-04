@@ -10,6 +10,8 @@ Component libraries:
   - S1KB-12-F general purpose diode
   - LTST-C191 LED
   - BAS-7-F general purpose diode 
+  - BAS70JFILM Schottky diode
+  - DB2J314 Schottky diode
 
 * st.eli: 
   - STM32F401RB (LQFP64)
